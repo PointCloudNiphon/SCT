@@ -4,3 +4,5 @@
 > the stacking demo : stackingsample.py
 ## the current stacking model take lgbm,xgboost,catboost.
 > stackingTry.py
+## stacking some tranditional algorithms 
+> junk_stacking.py
